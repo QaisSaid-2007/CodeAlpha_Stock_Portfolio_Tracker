@@ -62,7 +62,6 @@ The portfolio chart displays:
 - **Python**
 - **Pandas**
 - **Matplotlib**
-- **OpenPyXL**
 - **CSV**
 - **Excel**
 
@@ -79,7 +78,6 @@ This project helped me practice:
 - Abstract Methods
 - Polymorphism
 - Composition
-- Encapsulation
 - Type Hints
 - Functions
 - Lambda Functions
